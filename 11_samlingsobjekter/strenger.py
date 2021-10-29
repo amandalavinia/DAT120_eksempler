@@ -2,10 +2,17 @@
 """
 Created on Thu Sep 16 11:54:47 2021
 
-@author: Erlend Tøssebro
+@author: Amanda Kjærnsmo
 """
 
+# Legger til noen endringer for å teste brances
+
 streng = "En tekst med noen ord"
+bredde = int(input("Legg inn en bredde: "))
+
+if bredde <0:
+    print("Høyden må være positiv")
+
 
 #Splitetr strengen i dens enkelte ord
 splittet_streng = streng.split()
