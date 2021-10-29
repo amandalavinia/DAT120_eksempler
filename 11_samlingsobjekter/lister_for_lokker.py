@@ -22,3 +22,6 @@ else:
 
 for indeks, element in enumerate(liste):
     print(f"Element {element} ligger på indeks {indeks}")
+
+# liten endring
+print("Liten endring")
