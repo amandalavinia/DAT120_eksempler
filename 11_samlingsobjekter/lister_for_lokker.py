@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 16 08:39:36 2021
 
-@author: Erlend Tøssebro
+@author: Amanda Kjærnsmo
 """
 
 liste = [1, 3, 5, 7, 9]
